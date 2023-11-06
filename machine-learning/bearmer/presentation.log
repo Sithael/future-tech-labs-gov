@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.29)  6 NOV 2023 00:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.29)  6 NOV 2023 13:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -803,479 +803,536 @@ Package pdftex.def Info: ../manifest/marl-engineering.jpg  used on input line 53
 
 ] [5
 
+] [6
+
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 108.
+(Font)              <9> on input line 123.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 108.
+(Font)              <6> on input line 123.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 108.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 123.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 108.
-<../manifest/definicja-ai.png, id=153, 1027.84pt x 1027.84pt>
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 123.
+<../manifest/definicja-ai.png, id=178, 1027.84pt x 1027.84pt>
 File: ../manifest/definicja-ai.png Graphic file (type png)
 <use ../manifest/definicja-ai.png>
-Package pdftex.def Info: ../manifest/definicja-ai.png  used on input line 108.
+Package pdftex.def Info: ../manifest/definicja-ai.png  used on input line 123.
 (pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
- [6
-
- <../manifest/definicja-ai.png>]
-<../manifest/shannon.png, id=181, 1307.88625pt x 2007.5pt>
-File: ../manifest/shannon.png Graphic file (type png)
-<use ../manifest/shannon.png>
-Package pdftex.def Info: ../manifest/shannon.png  used on input line 142.
-(pdftex.def)             Requested size: 122.91406pt x 188.66214pt.
  [7
 
- <../manifest/shannon.png>]
-<../manifest/turing-test.png, id=208, 1027.84pt x 1027.84pt>
-File: ../manifest/turing-test.png Graphic file (type png)
-<use ../manifest/turing-test.png>
-Package pdftex.def Info: ../manifest/turing-test.png  used on input line 165.
-(pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
+ <../manifest/definicja-ai.png>]
+<../manifest/shannon.png, id=207, 1307.88625pt x 2007.5pt>
+File: ../manifest/shannon.png Graphic file (type png)
+<use ../manifest/shannon.png>
+Package pdftex.def Info: ../manifest/shannon.png  used on input line 157.
+(pdftex.def)             Requested size: 122.91406pt x 188.66214pt.
  [8
 
- <../manifest/turing-test.png>]
-<../manifest/entropy.png, id=235, 1027.84pt x 1027.84pt>
-File: ../manifest/entropy.png Graphic file (type png)
-<use ../manifest/entropy.png>
-Package pdftex.def Info: ../manifest/entropy.png  used on input line 187.
+ <../manifest/shannon.png>]
+<../manifest/turing-test.png, id=233, 1027.84pt x 1027.84pt>
+File: ../manifest/turing-test.png Graphic file (type png)
+<use ../manifest/turing-test.png>
+Package pdftex.def Info: ../manifest/turing-test.png  used on input line 180.
 (pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
  [9
 
- <../manifest/entropy.png>]
-<../manifest/lisp.png, id=263, 2890.8pt x 2890.8pt>
-File: ../manifest/lisp.png Graphic file (type png)
-<use ../manifest/lisp.png>
-Package pdftex.def Info: ../manifest/lisp.png  used on input line 210.
-(pdftex.def)             Requested size: 122.91406pt x 122.89046pt.
+ <../manifest/turing-test.png>]
+<../manifest/entropy.png, id=261, 1027.84pt x 1027.84pt>
+File: ../manifest/entropy.png Graphic file (type png)
+<use ../manifest/entropy.png>
+Package pdftex.def Info: ../manifest/entropy.png  used on input line 202.
+(pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
  [10
 
- <../manifest/lisp.png>]
-<../manifest/gofai.png, id=290, 1027.84pt x 1027.84pt>
-File: ../manifest/gofai.png Graphic file (type png)
-<use ../manifest/gofai.png>
-Package pdftex.def Info: ../manifest/gofai.png  used on input line 233.
-(pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
+ <../manifest/entropy.png>]
+<../manifest/lisp.png, id=288, 2890.8pt x 2890.8pt>
+File: ../manifest/lisp.png Graphic file (type png)
+<use ../manifest/lisp.png>
+Package pdftex.def Info: ../manifest/lisp.png  used on input line 225.
+(pdftex.def)             Requested size: 122.91406pt x 122.89046pt.
  [11
 
- <../manifest/gofai.png>]
-<../manifest/ai-winter.png, id=317, 1027.84pt x 1027.84pt>
-File: ../manifest/ai-winter.png Graphic file (type png)
-<use ../manifest/ai-winter.png>
-Package pdftex.def Info: ../manifest/ai-winter.png  used on input line 262.
+ <../manifest/lisp.png>]
+<../manifest/gofai.png, id=315, 1027.84pt x 1027.84pt>
+File: ../manifest/gofai.png Graphic file (type png)
+<use ../manifest/gofai.png>
+Package pdftex.def Info: ../manifest/gofai.png  used on input line 248.
 (pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
  [12
 
- <../manifest/ai-winter.png>]
-<../manifest/ai-winter-plot.png, id=344, 888.31876pt x 517.935pt>
-File: ../manifest/ai-winter-plot.png Graphic file (type png)
-<use ../manifest/ai-winter-plot.png>
-Package pdftex.def Info: ../manifest/ai-winter-plot.png  used on input line 271.
-(pdftex.def)             Requested size: 307.28358pt x 179.16194pt.
+ <../manifest/gofai.png>]
+<../manifest/ai-winter.png, id=342, 1027.84pt x 1027.84pt>
+File: ../manifest/ai-winter.png Graphic file (type png)
+<use ../manifest/ai-winter.png>
+Package pdftex.def Info: ../manifest/ai-winter.png  used on input line 277.
+(pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
  [13
 
- <../manifest/ai-winter-plot.png>]
-<../manifest/new-hope.png, id=373, 910.40125pt x 558.085pt>
-File: ../manifest/new-hope.png Graphic file (type png)
-<use ../manifest/new-hope.png>
-Package pdftex.def Info: ../manifest/new-hope.png  used on input line 280.
-(pdftex.def)             Requested size: 307.29578pt x 188.37537pt.
+ <../manifest/ai-winter.png>]
+<../manifest/ai-winter-plot.png, id=371, 888.31876pt x 517.935pt>
+File: ../manifest/ai-winter-plot.png Graphic file (type png)
+<use ../manifest/ai-winter-plot.png>
+Package pdftex.def Info: ../manifest/ai-winter-plot.png  used on input line 286.
+(pdftex.def)             Requested size: 307.28358pt x 179.16194pt.
  [14
 
- <../manifest/new-hope.png>] [15
+ <../manifest/ai-winter-plot.png>]
+<../manifest/new-hope.png, id=398, 910.40125pt x 558.085pt>
+File: ../manifest/new-hope.png Graphic file (type png)
+<use ../manifest/new-hope.png>
+Package pdftex.def Info: ../manifest/new-hope.png  used on input line 295.
+(pdftex.def)             Requested size: 307.29578pt x 188.37537pt.
+ [15
 
-] [16
+ <../manifest/new-hope.png>] [16
+
+] [17
 
 ]
-<../manifest/data-growth.png, id=450, 716.6775pt x 620.3175pt>
+<../manifest/data-growth.png, id=476, 716.6775pt x 620.3175pt>
 File: ../manifest/data-growth.png Graphic file (type png)
 <use ../manifest/data-growth.png>
-Package pdftex.def Info: ../manifest/data-growth.png  used on input line 321.
+Package pdftex.def Info: ../manifest/data-growth.png  used on input line 336.
 (pdftex.def)             Requested size: 248.76312pt x 215.31598pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 321.
+(Font)              <14.4> on input line 336.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 321.
- [17
-
- <../manifest/data-growth.png>]
-<../manifest/tt.png, id=478, 1027.84pt x 1027.84pt>
-File: ../manifest/tt.png Graphic file (type png)
-<use ../manifest/tt.png>
-Package pdftex.def Info: ../manifest/tt.png  used on input line 342.
-(pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 336.
  [18
 
- <../manifest/tt.png>]
-<../manifest/human-tiktok.png, id=505, 1027.84pt x 1027.84pt>
-File: ../manifest/human-tiktok.png Graphic file (type png)
-<use ../manifest/human-tiktok.png>
-Package pdftex.def Info: ../manifest/human-tiktok.png  used on input line 364.
+ <../manifest/data-growth.png>]
+<../manifest/tt.png, id=503, 1027.84pt x 1027.84pt>
+File: ../manifest/tt.png Graphic file (type png)
+<use ../manifest/tt.png>
+Package pdftex.def Info: ../manifest/tt.png  used on input line 357.
 (pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
  [19
 
- <../manifest/human-tiktok.png>]
-<../manifest/random-forest.png, id=533, 1027.84pt x 1027.84pt>
-File: ../manifest/random-forest.png Graphic file (type png)
-<use ../manifest/random-forest.png>
-Package pdftex.def Info: ../manifest/random-forest.png  used on input line 385.
+ <../manifest/tt.png>]
+<../manifest/human-tiktok.png, id=531, 1027.84pt x 1027.84pt>
+File: ../manifest/human-tiktok.png Graphic file (type png)
+<use ../manifest/human-tiktok.png>
+Package pdftex.def Info: ../manifest/human-tiktok.png  used on input line 379.
 (pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
  [20
 
- <../manifest/random-forest.png>]
-<../manifest/nvidia-gpu.png, id=560, 1027.84pt x 1027.84pt>
-File: ../manifest/nvidia-gpu.png Graphic file (type png)
-<use ../manifest/nvidia-gpu.png>
-Package pdftex.def Info: ../manifest/nvidia-gpu.png  used on input line 406.
+ <../manifest/human-tiktok.png>]
+<../manifest/random-forest.png, id=558, 1027.84pt x 1027.84pt>
+File: ../manifest/random-forest.png Graphic file (type png)
+<use ../manifest/random-forest.png>
+Package pdftex.def Info: ../manifest/random-forest.png  used on input line 400.
 (pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
  [21
 
- <../manifest/nvidia-gpu.png>]
-<../manifest/cpu-gpu.png, id=588, 1027.84pt x 1027.84pt>
-File: ../manifest/cpu-gpu.png Graphic file (type png)
-<use ../manifest/cpu-gpu.png>
-Package pdftex.def Info: ../manifest/cpu-gpu.png  used on input line 435.
+ <../manifest/random-forest.png>]
+<../manifest/nvidia-gpu.png, id=586, 1027.84pt x 1027.84pt>
+File: ../manifest/nvidia-gpu.png Graphic file (type png)
+<use ../manifest/nvidia-gpu.png>
+Package pdftex.def Info: ../manifest/nvidia-gpu.png  used on input line 421.
 (pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
  [22
 
- <../manifest/cpu-gpu.png>]
-[23
+ <../manifest/nvidia-gpu.png>]
+<../manifest/cpu-gpu.png, id=613, 1027.84pt x 1027.84pt>
+File: ../manifest/cpu-gpu.png Graphic file (type png)
+<use ../manifest/cpu-gpu.png>
+Package pdftex.def Info: ../manifest/cpu-gpu.png  used on input line 450.
+(pdftex.def)             Requested size: 122.91406pt x 122.91202pt.
+ [23
+
+ <../manifest/cpu-gpu.png>] [24
 
 ]
-<../manifest/perceptron.png, id=640, 1440.38126pt x 761.84625pt>
+<../manifest/perceptron.png, id=665, 1440.38126pt x 761.84625pt>
 File: ../manifest/perceptron.png Graphic file (type png)
 <use ../manifest/perceptron.png>
-Package pdftex.def Info: ../manifest/perceptron.png  used on input line 462.
+Package pdftex.def Info: ../manifest/perceptron.png  used on input line 477.
 (pdftex.def)             Requested size: 307.28029pt x 162.52664pt.
- [24
-
- <../manifest/perceptron.png>]
-<../manifest/mlp.png, id=667, 722.7pt x 339.2675pt>
-File: ../manifest/mlp.png Graphic file (type png)
-<use ../manifest/mlp.png>
-Package pdftex.def Info: ../manifest/mlp.png  used on input line 474.
-(pdftex.def)             Requested size: 307.2923pt x 144.25665pt.
  [25
 
- <../manifest/mlp.png>]
-<../manifest/nn-switch.png, id=696, 449.68pt x 346.29375pt>
-File: ../manifest/nn-switch.png Graphic file (type png)
-<use ../manifest/nn-switch.png>
-Package pdftex.def Info: ../manifest/nn-switch.png  used on input line 497.
-(pdftex.def)             Requested size: 153.64493pt x 118.31955pt.
+ <../manifest/perceptron.png>]
+<../manifest/mlp.png, id=694, 722.7pt x 339.2675pt>
+File: ../manifest/mlp.png Graphic file (type png)
+<use ../manifest/mlp.png>
+Package pdftex.def Info: ../manifest/mlp.png  used on input line 489.
+(pdftex.def)             Requested size: 307.2923pt x 144.25665pt.
  [26
 
- <../manifest/nn-switch.png>]
-<../manifest/mlp-features.png, id=723, 758.835pt x 352.31625pt>
-File: ../manifest/mlp-features.png Graphic file (type png)
-<use ../manifest/mlp-features.png>
-Package pdftex.def Info: ../manifest/mlp-features.png  used on input line 509.
-(pdftex.def)             Requested size: 307.29176pt x 142.67116pt.
+ <../manifest/mlp.png>]
+<../manifest/nn-switch.png, id=721, 449.68pt x 346.29375pt>
+File: ../manifest/nn-switch.png Graphic file (type png)
+<use ../manifest/nn-switch.png>
+Package pdftex.def Info: ../manifest/nn-switch.png  used on input line 512.
+(pdftex.def)             Requested size: 153.64493pt x 118.31955pt.
  [27
 
- <../manifest/mlp-features.png>]
-<../manifest/cat.png, id=750, 462.72874pt x 400.49625pt>
-File: ../manifest/cat.png Graphic file (type png)
-<use ../manifest/cat.png>
-Package pdftex.def Info: ../manifest/cat.png  used on input line 521.
-(pdftex.def)             Requested size: 217.68024pt x 188.40437pt.
+ <../manifest/nn-switch.png>]
+<../manifest/mlp-features.png, id=748, 758.835pt x 352.31625pt>
+File: ../manifest/mlp-features.png Graphic file (type png)
+<use ../manifest/mlp-features.png>
+Package pdftex.def Info: ../manifest/mlp-features.png  used on input line 524.
+(pdftex.def)             Requested size: 307.29176pt x 142.67116pt.
  [28
 
- <../manifest/cat.png>] [29
+ <../manifest/mlp-features.png>]
+<../manifest/cat.png, id=775, 462.72874pt x 400.49625pt>
+File: ../manifest/cat.png Graphic file (type png)
+<use ../manifest/cat.png>
+Package pdftex.def Info: ../manifest/cat.png  used on input line 536.
+(pdftex.def)             Requested size: 217.68024pt x 188.40437pt.
+ [29
 
-] [30
+ <../manifest/cat.png>] [30
+
+] [31
 
 ]
-<../manifest/ml-dl.jpg, id=828, 869.4081pt x 857.8449pt>
+<../manifest/ml-dl.jpg, id=854, 869.4081pt x 857.8449pt>
 File: ../manifest/ml-dl.jpg Graphic file (type jpg)
 <use ../manifest/ml-dl.jpg>
-Package pdftex.def Info: ../manifest/ml-dl.jpg  used on input line 571.
+Package pdftex.def Info: ../manifest/ml-dl.jpg  used on input line 586.
 (pdftex.def)             Requested size: 122.91406pt x 121.27553pt.
- [31
-
- <../manifest/ml-dl.jpg>]
-<../manifest/ml-types.png, id=855, 896.34875pt x 782.925pt>
-File: ../manifest/ml-types.png Graphic file (type png)
-<use ../manifest/ml-types.png>
-Package pdftex.def Info: ../manifest/ml-types.png  used on input line 583.
-(pdftex.def)             Requested size: 215.68886pt x 188.39565pt.
  [32
 
+ <../manifest/ml-dl.jpg>]
+<../manifest/ml-types.png, id=880, 896.34875pt x 782.925pt>
+File: ../manifest/ml-types.png Graphic file (type png)
+<use ../manifest/ml-types.png>
+Package pdftex.def Info: ../manifest/ml-types.png  used on input line 598.
+(pdftex.def)             Requested size: 215.68886pt x 188.39565pt.
+ [33
+
  <../manifest/ml-types.png>]
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 599.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 614.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
-) [33
+) [34
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
 File: ../manifest/ml-dl.jpg Graphic file (type jpg)
 <use ../manifest/ml-dl.jpg>
-Package pdftex.def Info: ../manifest/ml-dl.jpg  used on input line 621.
+Package pdftex.def Info: ../manifest/ml-dl.jpg  used on input line 636.
 (pdftex.def)             Requested size: 122.91406pt x 121.27553pt.
- [34
-
-]
-<../manifest/transformer.png, id=934, 532.99126pt x 713.66624pt>
-File: ../manifest/transformer.png Graphic file (type png)
-<use ../manifest/transformer.png>
-Package pdftex.def Info: ../manifest/transformer.png  used on input line 642.
-(pdftex.def)             Requested size: 122.91406pt x 164.57536pt.
  [35
 
- <../manifest/transformer.png>]
-<../manifest/deep-learning.png, id=961, 1650.165pt x 883.3pt>
-File: ../manifest/deep-learning.png Graphic file (type png)
-<use ../manifest/deep-learning.png>
-Package pdftex.def Info: ../manifest/deep-learning.png  used on input line 651.
-(pdftex.def)             Requested size: 307.2901pt x 164.48618pt.
+]
+<../manifest/transformer.png, id=959, 532.99126pt x 713.66624pt>
+File: ../manifest/transformer.png Graphic file (type png)
+<use ../manifest/transformer.png>
+Package pdftex.def Info: ../manifest/transformer.png  used on input line 657.
+(pdftex.def)             Requested size: 122.91406pt x 164.57536pt.
  [36
 
- <../manifest/deep-learning.png>]
-<../manifest/yolo.png, id=987, 955.57pt x 684.5575pt>
-File: ../manifest/yolo.png Graphic file (type png)
-<use ../manifest/yolo.png>
-Package pdftex.def Info: ../manifest/yolo.png  used on input line 660.
-(pdftex.def)             Requested size: 300.55414pt x 215.31294pt.
+ <../manifest/transformer.png>]
+<../manifest/deep-learning.png, id=986, 1650.165pt x 883.3pt>
+File: ../manifest/deep-learning.png Graphic file (type png)
+<use ../manifest/deep-learning.png>
+Package pdftex.def Info: ../manifest/deep-learning.png  used on input line 666.
+(pdftex.def)             Requested size: 307.2901pt x 164.48618pt.
  [37
 
- <../manifest/yolo.png>] [38
+ <../manifest/deep-learning.png>]
+<../manifest/yolo.png, id=1013, 955.57pt x 684.5575pt>
+File: ../manifest/yolo.png Graphic file (type png)
+<use ../manifest/yolo.png>
+Package pdftex.def Info: ../manifest/yolo.png  used on input line 675.
+(pdftex.def)             Requested size: 300.55414pt x 215.31294pt.
+ [38
+
+ <../manifest/yolo.png>] [39
 
 ]
-<../manifest/sl-intuition.png, id=1042, 1405.25pt x 1053.9375pt>
+<../manifest/sl-intuition.png, id=1067, 1405.25pt x 1053.9375pt>
 File: ../manifest/sl-intuition.png Graphic file (type png)
 <use ../manifest/sl-intuition.png>
-Package pdftex.def Info: ../manifest/sl-intuition.png  used on input line 696.
+Package pdftex.def Info: ../manifest/sl-intuition.png  used on input line 711.
 (pdftex.def)             Requested size: 153.64493pt x 115.22588pt.
- [39
+ [40
 
- <../manifest/sl-intuition.png>] [40
+ <../manifest/sl-intuition.png>] [41
 
 ]
-<../manifest/regression-classification-1.png, id=1094, 627.34375pt x 349.305pt>
+<../manifest/regression-classification-1.png, id=1119, 627.34375pt x 349.305pt>
 File: ../manifest/regression-classification-1.png Graphic file (type png)
 <use ../manifest/regression-classification-1.png>
-Package pdftex.def Info: ../manifest/regression-classification-1.png  used on input line 736.
+Package pdftex.def Info: ../manifest/regression-classification-1.png  used on input line 751.
 (pdftex.def)             Requested size: 307.29582pt x 171.10231pt.
- [41
-
- <../manifest/regression-classification-1.png>]
-<../manifest/regression-classification-2.png, id=1121, 777.90625pt x 627.34375pt>
-File: ../manifest/regression-classification-2.png Graphic file (type png)
-<use ../manifest/regression-classification-2.png>
-Package pdftex.def Info: ../manifest/regression-classification-2.png  used on input line 745.
-(pdftex.def)             Requested size: 266.98917pt x 215.31384pt.
  [42
 
- <../manifest/regression-classification-2.png (PNG copy)>] [43
+ <../manifest/regression-classification-1.png>]
+<../manifest/regression-classification-2.png, id=1147, 777.90625pt x 627.34375pt>
+File: ../manifest/regression-classification-2.png Graphic file (type png)
+<use ../manifest/regression-classification-2.png>
+Package pdftex.def Info: ../manifest/regression-classification-2.png  used on input line 760.
+(pdftex.def)             Requested size: 266.98917pt x 215.31384pt.
+ [43
+
+ <../manifest/regression-classification-2.png (PNG copy)>] [44
 
 ]
-<../manifest/labelled-data.png, id=1174, 660.4675pt x 256.96pt>
+<../manifest/labelled-data.png, id=1199, 660.4675pt x 256.96pt>
 File: ../manifest/labelled-data.png Graphic file (type png)
 <use ../manifest/labelled-data.png>
-Package pdftex.def Info: ../manifest/labelled-data.png  used on input line 768.
+Package pdftex.def Info: ../manifest/labelled-data.png  used on input line 783.
 (pdftex.def)             Requested size: 307.29561pt x 119.55573pt.
- [44
-
- <../manifest/labelled-data.png>]
-<../manifest/r-f-p-1.png, id=1201, 528.97626pt x 253.94875pt>
-File: ../manifest/r-f-p-1.png Graphic file (type png)
-<use ../manifest/r-f-p-1.png>
-Package pdftex.def Info: ../manifest/r-f-p-1.png  used on input line 792.
-(pdftex.def)             Requested size: 184.3758pt x 88.51526pt.
  [45
 
- <../manifest/r-f-p-1.png>]
-<../manifest/r-f-p-2.png, id=1228, 645.41125pt x 297.11pt>
-File: ../manifest/r-f-p-2.png Graphic file (type png)
-<use ../manifest/r-f-p-2.png>
-Package pdftex.def Info: ../manifest/r-f-p-2.png  used on input line 801.
-(pdftex.def)             Requested size: 307.2826pt x 141.45512pt.
+ <../manifest/labelled-data.png>]
+<../manifest/r-f-p-1.png, id=1226, 528.97626pt x 253.94875pt>
+File: ../manifest/r-f-p-1.png Graphic file (type png)
+<use ../manifest/r-f-p-1.png>
+Package pdftex.def Info: ../manifest/r-f-p-1.png  used on input line 807.
+(pdftex.def)             Requested size: 184.3758pt x 88.51526pt.
  [46
 
- <../manifest/r-f-p-2.png>]
-<../manifest/r-f-p-3.png, id=1256, 596.2275pt x 258.9675pt>
-File: ../manifest/r-f-p-3.png Graphic file (type png)
-<use ../manifest/r-f-p-3.png>
-Package pdftex.def Info: ../manifest/r-f-p-3.png  used on input line 810.
-(pdftex.def)             Requested size: 307.29259pt x 133.4705pt.
+ <../manifest/r-f-p-1.png>]
+<../manifest/r-f-p-2.png, id=1254, 645.41125pt x 297.11pt>
+File: ../manifest/r-f-p-2.png Graphic file (type png)
+<use ../manifest/r-f-p-2.png>
+Package pdftex.def Info: ../manifest/r-f-p-2.png  used on input line 816.
+(pdftex.def)             Requested size: 307.2826pt x 141.45512pt.
  [47
 
- <../manifest/r-f-p-3.png>]
-<../manifest/real-estate.png, id=1283, 1027.84pt x 1027.84pt>
-File: ../manifest/real-estate.png Graphic file (type png)
-<use ../manifest/real-estate.png>
-Package pdftex.def Info: ../manifest/real-estate.png  used on input line 822.
-(pdftex.def)             Requested size: 188.39085pt x 188.39085pt.
+ <../manifest/r-f-p-2.png>]
+<../manifest/r-f-p-3.png, id=1281, 596.2275pt x 258.9675pt>
+File: ../manifest/r-f-p-3.png Graphic file (type png)
+<use ../manifest/r-f-p-3.png>
+Package pdftex.def Info: ../manifest/r-f-p-3.png  used on input line 825.
+(pdftex.def)             Requested size: 307.29259pt x 133.4705pt.
  [48
 
- <../manifest/real-estate.png>]
-<../manifest/estate-data-raw.png, id=1310, 500.87125pt x 225.84375pt>
-File: ../manifest/estate-data-raw.png Graphic file (type png)
-<use ../manifest/estate-data-raw.png>
-Package pdftex.def Info: ../manifest/estate-data-raw.png  used on input line 834.
-(pdftex.def)             Requested size: 307.30411pt x 138.56396pt.
+ <../manifest/r-f-p-3.png>]
+<../manifest/real-estate.png, id=1308, 1027.84pt x 1027.84pt>
+File: ../manifest/real-estate.png Graphic file (type png)
+<use ../manifest/real-estate.png>
+Package pdftex.def Info: ../manifest/real-estate.png  used on input line 837.
+(pdftex.def)             Requested size: 188.39085pt x 188.39085pt.
  [49
 
- <../manifest/estate-data-raw.png>]
-<../manifest/estate-remember.png, id=1338, 640.3925pt x 344.28625pt>
-File: ../manifest/estate-remember.png Graphic file (type png)
-<use ../manifest/estate-remember.png>
-Package pdftex.def Info: ../manifest/estate-remember.png  used on input line 846.
-(pdftex.def)             Requested size: 307.29695pt x 165.20824pt.
+ <../manifest/real-estate.png>]
+<../manifest/estate-data-raw.png, id=1336, 500.87125pt x 225.84375pt>
+File: ../manifest/estate-data-raw.png Graphic file (type png)
+<use ../manifest/estate-data-raw.png>
+Package pdftex.def Info: ../manifest/estate-data-raw.png  used on input line 849.
+(pdftex.def)             Requested size: 307.30411pt x 138.56396pt.
  [50
 
- <../manifest/estate-remember.png>]
-<../manifest/estate-formulate.png, id=1366, 642.4pt x 343.2825pt>
-File: ../manifest/estate-formulate.png Graphic file (type png)
-<use ../manifest/estate-formulate.png>
-Package pdftex.def Info: ../manifest/estate-formulate.png  used on input line 858.
-(pdftex.def)             Requested size: 307.29967pt x 164.21324pt.
+ <../manifest/estate-data-raw.png>]
+<../manifest/estate-remember.png, id=1364, 640.3925pt x 344.28625pt>
+File: ../manifest/estate-remember.png Graphic file (type png)
+<use ../manifest/estate-remember.png>
+Package pdftex.def Info: ../manifest/estate-remember.png  used on input line 861.
+(pdftex.def)             Requested size: 307.29695pt x 165.20824pt.
  [51
 
+ <../manifest/estate-remember.png>]
+<../manifest/estate-formulate.png, id=1391, 642.4pt x 343.2825pt>
+File: ../manifest/estate-formulate.png Graphic file (type png)
+<use ../manifest/estate-formulate.png>
+Package pdftex.def Info: ../manifest/estate-formulate.png  used on input line 873.
+(pdftex.def)             Requested size: 307.29967pt x 164.21324pt.
+ [52
+
  <../manifest/estate-formulate.png>]
-<../manifest/estate-data.png, id=1393, 461.725pt x 256.96pt>
+<../manifest/estate-data.png, id=1418, 461.725pt x 256.96pt>
 File: ../manifest/estate-data.png Graphic file (type png)
 <use ../manifest/estate-data.png>
-Package pdftex.def Info: ../manifest/estate-data.png  used on input line 870.
+Package pdftex.def Info: ../manifest/estate-data.png  used on input line 885.
 (pdftex.def)             Requested size: 307.28986pt x 171.01347pt.
- [52
+ [53
 
  <../manifest/estate-data.png>]
 File: ../manifest/estate-data.png Graphic file (type png)
 <use ../manifest/estate-data.png>
-Package pdftex.def Info: ../manifest/estate-data.png  used on input line 890.
+Package pdftex.def Info: ../manifest/estate-data.png  used on input line 905.
 (pdftex.def)             Requested size: 153.64493pt x 85.50673pt.
 File: ../manifest/estate-formulate.png Graphic file (type png)
 <use ../manifest/estate-formulate.png>
-Package pdftex.def Info: ../manifest/estate-formulate.png  used on input line 890.
+Package pdftex.def Info: ../manifest/estate-formulate.png  used on input line 905.
 (pdftex.def)             Requested size: 153.64493pt x 82.10138pt.
- [53
+ [54
 
 ]
-<../manifest/estate-predict.png, id=1445, 670.505pt x 340.27126pt>
+<../manifest/estate-predict.png, id=1470, 670.505pt x 340.27126pt>
 File: ../manifest/estate-predict.png Graphic file (type png)
 <use ../manifest/estate-predict.png>
-Package pdftex.def Info: ../manifest/estate-predict.png  used on input line 902.
+Package pdftex.def Info: ../manifest/estate-predict.png  used on input line 917.
 (pdftex.def)             Requested size: 307.29016pt x 155.94514pt.
- [54
+ [55
 
  <../manifest/estate-predict.png>]
 File: ../manifest/perceptron.png Graphic file (type png)
 <use ../manifest/perceptron.png>
-Package pdftex.def Info: ../manifest/perceptron.png  used on input line 926.
+Package pdftex.def Info: ../manifest/perceptron.png  used on input line 941.
 (pdftex.def)             Requested size: 184.3758pt x 97.509pt.
- [55
-
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
-<../manifest/no-activation.png, id=1505, 585.18625pt x 286.06876pt>
-File: ../manifest/no-activation.png Graphic file (type png)
-<use ../manifest/no-activation.png>
-Package pdftex.def Info: ../manifest/no-activation.png  used on input line 938.
-(pdftex.def)             Requested size: 307.29881pt x 150.22327pt.
  [56
 
- <../manifest/no-activation.png>]
-<../manifest/linear-data.png, id=1532, 248.93pt x 242.9075pt>
-File: ../manifest/linear-data.png Graphic file (type png)
-<use ../manifest/linear-data.png>
-Package pdftex.def Info: ../manifest/linear-data.png  used on input line 950.
-(pdftex.def)             Requested size: 193.07068pt x 188.39961pt.
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
+<../manifest/no-activation.png, id=1530, 585.18625pt x 286.06876pt>
+File: ../manifest/no-activation.png Graphic file (type png)
+<use ../manifest/no-activation.png>
+Package pdftex.def Info: ../manifest/no-activation.png  used on input line 953.
+(pdftex.def)             Requested size: 307.29881pt x 150.22327pt.
  [57
 
- <../manifest/linear-data.png>]
-<../manifest/non-linear-data.png, id=1559, 251.94125pt x 241.90375pt>
-File: ../manifest/non-linear-data.png Graphic file (type png)
-<use ../manifest/non-linear-data.png>
-Package pdftex.def Info: ../manifest/non-linear-data.png  used on input line 962.
-(pdftex.def)             Requested size: 196.2289pt x 188.41101pt.
+ <../manifest/no-activation.png>]
+<../manifest/linear-data.png, id=1557, 248.93pt x 242.9075pt>
+File: ../manifest/linear-data.png Graphic file (type png)
+<use ../manifest/linear-data.png>
+Package pdftex.def Info: ../manifest/linear-data.png  used on input line 965.
+(pdftex.def)             Requested size: 193.07068pt x 188.39961pt.
  [58
 
- <../manifest/non-linear-data.png>]
-<../manifest/activation.png, id=1586, 591.20876pt x 290.08376pt>
-File: ../manifest/activation.png Graphic file (type png)
-<use ../manifest/activation.png>
-Package pdftex.def Info: ../manifest/activation.png  used on input line 974.
-(pdftex.def)             Requested size: 307.295pt x 150.77802pt.
+ <../manifest/linear-data.png>]
+<../manifest/non-linear-data.png, id=1584, 251.94125pt x 241.90375pt>
+File: ../manifest/non-linear-data.png Graphic file (type png)
+<use ../manifest/non-linear-data.png>
+Package pdftex.def Info: ../manifest/non-linear-data.png  used on input line 977.
+(pdftex.def)             Requested size: 196.2289pt x 188.41101pt.
  [59
 
- <../manifest/activation.png>]
-<../manifest/step-non-linear.png, id=1614, 669.50125pt x 358.33875pt>
-File: ../manifest/step-non-linear.png Graphic file (type png)
-<use ../manifest/step-non-linear.png>
-Package pdftex.def Info: ../manifest/step-non-linear.png  used on input line 986.
-(pdftex.def)             Requested size: 307.30008pt x 164.47694pt.
+ <../manifest/non-linear-data.png>]
+<../manifest/activation.png, id=1612, 591.20876pt x 290.08376pt>
+File: ../manifest/activation.png Graphic file (type png)
+<use ../manifest/activation.png>
+Package pdftex.def Info: ../manifest/activation.png  used on input line 989.
+(pdftex.def)             Requested size: 307.295pt x 150.77802pt.
  [60
 
- <../manifest/step-non-linear.png>]
-<../manifest/non-linear.png, id=1641, 632.3625pt x 249.93375pt>
-File: ../manifest/non-linear.png Graphic file (type png)
-<use ../manifest/non-linear.png>
-Package pdftex.def Info: ../manifest/non-linear.png  used on input line 998.
-(pdftex.def)             Requested size: 307.29369pt x 121.45416pt.
+ <../manifest/activation.png>]
+<../manifest/step-non-linear.png, id=1639, 669.50125pt x 358.33875pt>
+File: ../manifest/step-non-linear.png Graphic file (type png)
+<use ../manifest/step-non-linear.png>
+Package pdftex.def Info: ../manifest/step-non-linear.png  used on input line 1001.
+(pdftex.def)             Requested size: 307.30008pt x 164.47694pt.
  [61
 
- <../manifest/non-linear.png>]
-<../manifest/separation.png, id=1669, 1121.18875pt x 765.86125pt>
-File: ../manifest/separation.png Graphic file (type png)
-<use ../manifest/separation.png>
-Package pdftex.def Info: ../manifest/separation.png  used on input line 1010.
-(pdftex.def)             Requested size: 275.7971pt x 188.39139pt.
+ <../manifest/step-non-linear.png>]
+<../manifest/non-linear.png, id=1667, 632.3625pt x 249.93375pt>
+File: ../manifest/non-linear.png Graphic file (type png)
+<use ../manifest/non-linear.png>
+Package pdftex.def Info: ../manifest/non-linear.png  used on input line 1013.
+(pdftex.def)             Requested size: 307.29369pt x 121.45416pt.
  [62
 
- <../manifest/separation.png>] [63
+ <../manifest/non-linear.png>]
+<../manifest/separation.png, id=1694, 1121.18875pt x 765.86125pt>
+File: ../manifest/separation.png Graphic file (type png)
+<use ../manifest/separation.png>
+Package pdftex.def Info: ../manifest/separation.png  used on input line 1025.
+(pdftex.def)             Requested size: 275.7971pt x 188.39139pt.
+ [63
+
+ <../manifest/separation.png>] [64
 
 ]
-<../manifest/bad-model.png, id=1722, 1027.84pt x 1027.84pt>
+<../manifest/bad-model.png, id=1747, 1027.84pt x 1027.84pt>
 File: ../manifest/bad-model.png Graphic file (type png)
 <use ../manifest/bad-model.png>
-Package pdftex.def Info: ../manifest/bad-model.png  used on input line 1033.
+Package pdftex.def Info: ../manifest/bad-model.png  used on input line 1048.
 (pdftex.def)             Requested size: 215.31952pt x 215.31952pt.
- [64
-
- <../manifest/bad-model.png>]
-<../manifest/errors.png, id=1749, 650.43pt x 215.80624pt>
-File: ../manifest/errors.png Graphic file (type png)
-<use ../manifest/errors.png>
-Package pdftex.def Info: ../manifest/errors.png  used on input line 1043.
-(pdftex.def)             Requested size: 307.30002pt x 101.9591pt.
  [65
 
- <../manifest/errors.png>]
-<../manifest/l1.png, id=1776, 644.4075pt x 193.72375pt>
-File: ../manifest/l1.png Graphic file (type png)
-<use ../manifest/l1.png>
-Package pdftex.def Info: ../manifest/l1.png  used on input line 1065.
-(pdftex.def)             Requested size: 184.3758pt x 55.42761pt.
+ <../manifest/bad-model.png>]
+<../manifest/errors.png, id=1774, 650.43pt x 215.80624pt>
+File: ../manifest/errors.png Graphic file (type png)
+<use ../manifest/errors.png>
+Package pdftex.def Info: ../manifest/errors.png  used on input line 1058.
+(pdftex.def)             Requested size: 307.30002pt x 101.9591pt.
  [66
 
- <../manifest/l1.png>]
-<../manifest/l2.png, id=1803, 656.4525pt x 252.945pt>
-File: ../manifest/l2.png Graphic file (type png)
-<use ../manifest/l2.png>
-Package pdftex.def Info: ../manifest/l2.png  used on input line 1086.
-(pdftex.def)             Requested size: 184.3758pt x 71.04411pt.
+ <../manifest/errors.png>]
+<../manifest/l1.png, id=1801, 644.4075pt x 193.72375pt>
+File: ../manifest/l1.png Graphic file (type png)
+<use ../manifest/l1.png>
+Package pdftex.def Info: ../manifest/l1.png  used on input line 1080.
+(pdftex.def)             Requested size: 184.3758pt x 55.42761pt.
  [67
 
- <../manifest/l2.png>]
-<../manifest/points-move.png, id=1832, 684.5575pt x 316.18124pt>
-File: ../manifest/points-move.png Graphic file (type png)
-<use ../manifest/points-move.png>
-Package pdftex.def Info: ../manifest/points-move.png  used on input line 1096.
-(pdftex.def)             Requested size: 307.29594pt x 141.93288pt.
+ <../manifest/l1.png>]
+<../manifest/l2.png, id=1830, 656.4525pt x 252.945pt>
+File: ../manifest/l2.png Graphic file (type png)
+<use ../manifest/l2.png>
+Package pdftex.def Info: ../manifest/l2.png  used on input line 1101.
+(pdftex.def)             Requested size: 184.3758pt x 71.04411pt.
  [68
 
- <../manifest/points-move.png>]
-<../manifest/error-optim.png, id=1859, 636.3775pt x 297.11pt>
-File: ../manifest/error-optim.png Graphic file (type png)
-<use ../manifest/error-optim.png>
-Package pdftex.def Info: ../manifest/error-optim.png  used on input line 1106.
-(pdftex.def)             Requested size: 307.28326pt x 143.46347pt.
+ <../manifest/l2.png>]
+<../manifest/points-move.png, id=1857, 684.5575pt x 316.18124pt>
+File: ../manifest/points-move.png Graphic file (type png)
+<use ../manifest/points-move.png>
+Package pdftex.def Info: ../manifest/points-move.png  used on input line 1111.
+(pdftex.def)             Requested size: 307.29594pt x 141.93288pt.
  [69
 
- <../manifest/error-optim.png>] [70
+ <../manifest/points-move.png>]
+<../manifest/error-optim.png, id=1884, 636.3775pt x 297.11pt>
+File: ../manifest/error-optim.png Graphic file (type png)
+<use ../manifest/error-optim.png>
+Package pdftex.def Info: ../manifest/error-optim.png  used on input line 1121.
+(pdftex.def)             Requested size: 307.28326pt x 143.46347pt.
+ [70
 
-] [71
+ <../manifest/error-optim.png>]
+<../manifest/what-meme.jpg, id=1911, 1284.8pt x 721.69624pt>
+File: ../manifest/what-meme.jpg Graphic file (type jpg)
+<use ../manifest/what-meme.jpg>
+Package pdftex.def Info: ../manifest/what-meme.jpg  used on input line 1131.
+(pdftex.def)             Requested size: 307.28006pt x 172.60497pt.
+ [71
+
+ <../manifest/what-meme.jpg>]
+<../manifest/slope.png, id=1938, 536.0025pt x 449.68pt>
+File: ../manifest/slope.png Graphic file (type png)
+<use ../manifest/slope.png>
+Package pdftex.def Info: ../manifest/slope.png  used on input line 1141.
+(pdftex.def)             Requested size: 256.64851pt x 215.3156pt.
+ [72
+
+ <../manifest/slope.png>]
+<../manifest/optim-1.png, id=1965, 926.46124pt x 431.6125pt>
+File: ../manifest/optim-1.png Graphic file (type png)
+<use ../manifest/optim-1.png>
+Package pdftex.def Info: ../manifest/optim-1.png  used on input line 1151.
+(pdftex.def)             Requested size: 307.28818pt x 143.157pt.
+ [73
+
+ <../manifest/optim-1.png>]
+<../manifest/optim-2.png, id=1993, 922.44624pt x 293.095pt>
+File: ../manifest/optim-2.png Graphic file (type png)
+<use ../manifest/optim-2.png>
+Package pdftex.def Info: ../manifest/optim-2.png  used on input line 1161.
+(pdftex.def)             Requested size: 307.27957pt x 97.63397pt.
+ [74
+
+ <../manifest/optim-2.png>]
+<../manifest/optim-3.png, id=2020, 932.48375pt x 326.21875pt>
+File: ../manifest/optim-3.png Graphic file (type png)
+<use ../manifest/optim-3.png>
+Package pdftex.def Info: ../manifest/optim-3.png  used on input line 1171.
+(pdftex.def)             Requested size: 307.29373pt x 107.50317pt.
+ [75
+
+ <../manifest/optim-3.png>]
+<../manifest/optim-4.png, id=2048, 931.48pt x 326.21875pt>
+File: ../manifest/optim-4.png Graphic file (type png)
+<use ../manifest/optim-4.png>
+Package pdftex.def Info: ../manifest/optim-4.png  used on input line 1181.
+(pdftex.def)             Requested size: 307.28986pt x 107.61766pt.
+ [76
+
+ <../manifest/optim-4.png>]
+<../manifest/grad.png, id=2075, 923.45pt x 453.695pt>
+File: ../manifest/grad.png Graphic file (type png)
+<use ../manifest/grad.png>
+Package pdftex.def Info: ../manifest/grad.png  used on input line 1191.
+(pdftex.def)             Requested size: 307.28986pt x 150.97284pt.
+ [77
+
+ <../manifest/grad.png>] [78
+
+] [79
 
 ]
 \tf@nav=\write6
@@ -1292,18 +1349,18 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 24227 strings out of 476025
- 464425 string characters out of 5790017
+ 24308 strings out of 476025
+ 465960 string characters out of 5790017
  1861388 words of memory out of 5000000
- 43974 multiletter control sequences out of 15000+600000
+ 44032 multiletter control sequences out of 15000+600000
  578479 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,122p,411b,719s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on presentation.pdf (71 pages, 32966264 bytes).
+Output written on presentation.pdf (79 pages, 33683010 bytes).
 PDF statistics:
- 2022 PDF objects out of 2073 (max. 8388607)
- 1797 compressed objects within 18 object streams
- 143 named destinations out of 1000 (max. 500000)
- 318 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2244 PDF objects out of 2487 (max. 8388607)
+ 1996 compressed objects within 20 object streams
+ 159 named destinations out of 1000 (max. 500000)
+ 353 words of extra memory for PDF output out of 10000 (max. 10000000)
 
